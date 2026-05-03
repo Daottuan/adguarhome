@@ -80,11 +80,6 @@
 @@||chat.zalo.me^
 @@||zadn.vn^
 @@||zdn.vn^
-! TikTok
-@@||tiktok.com^
-@@||tiktokcdn.com^
-@@||tiktokv.com^
-@@||tiktokrow-cdn.com^
 ! Khác
 @@||locketcamera.com^
 
