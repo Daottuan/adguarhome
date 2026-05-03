@@ -69,11 +69,8 @@
 
 ! --- 5. MẠNG XÃ HỘI & NHẮN TIN ---
 ! Facebook & Instagram
-@@||facebook.com^
 @@||fbcdn.net^
 @@||fbsbx.com^
-@@||messenger.com^
-@@||instagram.com^
 @@||cdninstagram.com^
 ! Zalo
 @@||zalo.me^
@@ -84,7 +81,6 @@
 ! --- 6. GOOGLE & YOUTUBE ---
 @@||google.com^
 @@||gmail.com^
-@@||youtube.com^
 @@||googlevideo.com^
 @@||ytimg.com^
 @@||ggpht.com^
