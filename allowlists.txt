@@ -80,8 +80,6 @@
 @@||chat.zalo.me^
 @@||zadn.vn^
 @@||zdn.vn^
-! Khác
-@@||locketcamera.com^
 
 ! --- 6. GOOGLE & YOUTUBE ---
 @@||google.com^
