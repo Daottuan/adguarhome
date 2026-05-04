@@ -44,17 +44,6 @@
 @@||smartpay.vn^
 @@||9pay.vn^
 
-! --- 4. MUA SẮM, GIAO HÀNG & GỌI XE ---
-@@||ghn.vn^
-@@||ghtk.vn^
-@@||viettelpost.com.vn^
-
-! --- 5. MẠNG XÃ HỘI & NHẮN TIN ---
-@@||zalo.me^
-@@||chat.zalo.me^
-@@||zadn.vn^
-@@||zdn.vn^
-
 ! --- 6. GOOGLE & YOUTUBE ---
 @@||google.com^
 @@||gmail.com^
@@ -89,9 +78,6 @@
 @@||azureedge.net^
 
 ! --- 9. HẠ TẦNG MẠNG, CDN & TECH (Tránh lỗi load web) ---
-@@||cloudflare.com^
-@@||cloudflare-dns.com^
-@@||cloudflare.net^
 @@||akamai.net^
 @@||akamaiedge.net^
 @@||akamaihd.net^
